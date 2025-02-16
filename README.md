@@ -1,3 +1,4 @@
+![Banner Image] (https://github.com/RaginiS19/RaginiS19/blob/main/Ragini_Shirwalkar.png)
 
 # 👋 Hello, I'm Ragini Shirwalkar  
 
