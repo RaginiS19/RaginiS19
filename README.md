@@ -1,4 +1,4 @@
-![UX UI Designer/ Website Developer](https://raw.githubusercontent.com/RaginiS19/RaginiS19/main/UX%20UI%20Designer%3AWeb%20Developer.png){: height="300px"}
+![UX UI Designer/ Website Developer](https://raw.githubusercontent.com/RaginiS19/RaginiS19/main/UX%20UI%20Designer%3AWeb%20Developer.png)
 
 # 👋 Hello, I'm Ragini Shirwalkar  
 
