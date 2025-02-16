@@ -1,4 +1,4 @@
-![Banner Image] (https://github.com/RaginiS19/RaginiS19/blob/main/Ragini_Shirwalkar.png)
+![Banner Image](https://raw.githubusercontent.com/RaginiS19/RaginiS19/main/Ragini_Shirwalkar.png)
 
 # 👋 Hello, I'm Ragini Shirwalkar  
 
