@@ -30,6 +30,14 @@ I'm a **UX/UI Designer** with **5 years of experience**, currently expanding my 
 
 ---
 
+## 🛠 Design Tools  
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)  
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white)  
+
+---
+
 ## 📡 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/raginishirwalkar/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://raginis19.github.io)  
