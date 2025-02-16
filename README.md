@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/RaginiS19/RaginiS19/main/Ragini_Shirwalkar.png)
+![Banner Image]((https://github.com/RaginiS19/RaginiS19/blob/main/UX%20UI%20Designer%3AWeb%20Developer.png))
 
 # 👋 Hello, I'm Ragini Shirwalkar  
 
