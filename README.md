@@ -1,4 +1,4 @@
-![UX UI Designer/ Website Developer](https://raw.githubusercontent.com/RaginiS19/RaginiS19/main/UX%20UI%20Designer%3AWeb%20Developer.png)
+![UX UI Designer/ Website Developer]((https://github.com/RaginiS19/RaginiS19/blob/main/Logo.png))
 
 # 👋 Hello, I'm Ragini Shirwalkar  
 
